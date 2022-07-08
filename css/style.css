@@ -7,12 +7,14 @@
 body {
     font-family: "vazir";
     text-align: right;
+    overflow-x: hidden;
 }
 
 .dropdown-menu.show {
     text-align: right;
 }
 
+.skill-item,
 .navbar-brand {
     font-family: cursive;
 }
